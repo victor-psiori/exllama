@@ -8,7 +8,7 @@ Disclaimer: The project is coming along, but it's still a work in progress!
 ## Hardware requirements
 
 I am developing on an RTX 4090 and an RTX 3090-Ti. Both cards support the CUDA kernels, but there might be
-incompatibilities with older cards.
+incompatibilities with older cards. (TODO: making dummy changes in readme. revert before merging)
 
 ## Dependencies
 
